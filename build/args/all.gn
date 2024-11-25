@@ -11,6 +11,7 @@ v8_embedder_string = "-electron.0"
 v8_enable_snapshot_native_code_counters = false
 
 # we use this api
+v8_enable_sandbox = false
 v8_enable_javascript_promise_hooks = true
 
 enable_cdm_host_verification = false
